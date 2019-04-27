@@ -1,2 +1,2 @@
 # pTree-01
-Stoor wag woorde online met e2e encryption. Ek gaan begin hier met 'n java client sommer wat die encryption aan die rekenaar se kant doen. Ek het java gekies omdat ek later oor wil gaan na 'n android app toe ook, dan is dit sommer klaar gedoen.
+Store passwords online using e2e encryption. I shall start with a java client that will handle the encryption on the computer's side. The reason for using java being that I am looking to move on to an Android app at a later stage.
